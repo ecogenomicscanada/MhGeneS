@@ -1,1 +1,0 @@
-#Locus	Allele	BaseChange	NumReads	AlleleReadsPer	TotalReads	ReadsPer	Conclusive	Zygosity	Indel	Sequence
