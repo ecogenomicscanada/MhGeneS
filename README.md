@@ -28,4 +28,4 @@ In order to sreen for Microhaplotypes (MH) within a dataset, specific R code is 
 An ***optional* read depth filter** is implemented in the R code, so the User can decide what read depth is appropriate.
 
 ## Pipeline overview
-![Figure1_pipeline_V3](https://github.com/ecogenomicscanada/MhGeneS/assets/70644096/ecf0713f-85a3-4224-b093-72e0a990ee60|width=100)
+![Figure1_pipeline_V3](https://github.com/ecogenomicscanada/MhGeneS/assets/70644096/ecf0713f-85a3-4224-b093-72e0a990ee60)
