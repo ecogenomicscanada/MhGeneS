@@ -32,4 +32,5 @@ An ***optional* read depth filter** is implemented in the R code, so the User ca
 
 ### Please cite
 
+Geue, J.C., Liu, P., Keobouasone, S., Wilson, P. & Manseau, M (2024). MhGeneS: An analytical pipeline to allow for robust microhaplotype genotyping. (submitted to *Molecular Ecology Resources*)
 
